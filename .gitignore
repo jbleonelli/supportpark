@@ -3,3 +3,6 @@ node_modules/
 out/
 .DS_Store
 *.log
+version1/node_modules/
+version1/.next/
+version1/out/
