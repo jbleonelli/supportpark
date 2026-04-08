@@ -16,6 +16,7 @@ const footerLinks = {
   entreprise: [
     { name: 'À propos', href: '/a-propos' },
     { name: 'Notre Équipe', href: '/equipe' },
+    { name: 'ROI & Économies', href: '/roi' },
     { name: 'Contact', href: '/contact' },
   ],
 }

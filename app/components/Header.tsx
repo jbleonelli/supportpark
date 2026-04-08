@@ -8,6 +8,7 @@ import { Menu, X, ChevronRight } from 'lucide-react'
 const navigation = [
   { name: 'Services', href: '/services' },
   { name: 'Solutions', href: '/solutions' },
+  { name: 'ROI', href: '/roi' },
   { name: 'À propos', href: '/a-propos' },
   { name: 'Équipe', href: '/equipe' },
   { name: 'Nous contacter', href: '/contact' },
